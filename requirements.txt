@@ -1,15 +1,11 @@
 unittest2
 setuptools
 nose
-
 six
 Cython
-
 numpy>=1.9.0
 scipy>=0.14.1
-
 scikit-learn==0.17.1
-
 lockfile
 joblib
 psutil
@@ -18,7 +14,6 @@ ConfigArgParse
 liac-arff
 pandas
 xgboost==0.4a30
-
 ConfigSpace
 pynisher>=0.4
 pyrfr
